@@ -27,3 +27,12 @@ Carregue o arquivo 02_modelagem_avancada.ipynb no Google Colab.
 Certifique-se de que o ficheiro de dados archive.zip (Kaggle) está no ambiente (/content/archive.zip).
 
 Execute todas as células sequencialmente. O código tratará automaticamente a extração, limpeza, modelagem e geração das visualizações em /assets.
+
+📥 Preparação dos Dados
+Para executar este projeto, é necessário obter o dataset original no Kaggle:https://www.kaggle.com/datasets/joniarroba/noshowappointments?resource=download.
+
+Faça o download do arquivo archive.zip.
+
+Coloque o ficheiro archive.zip na raiz do ambiente de execução (ex: /content/ no Google Colab).
+
+O script de modelagem encarrega-se automaticamente da extração e processamento.
